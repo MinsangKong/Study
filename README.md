@@ -132,6 +132,8 @@
 - Q10 자물쇠와 열쇠 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/4-1.py))
 - Q12 기둥과 보 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/6-1.py))
 - Q14 외벽 점검 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/8-1.py))
+- Q18 괄호 변환 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/4-1.py))
+
 
 
 ---
@@ -145,3 +147,9 @@
 - Q8 문자열 재정렬 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/2-1.py))
 - Q11 뱀 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/5-1.py))
 - Q13 치킨배달 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/7-1.py))
+- Q15 특정 거리의 도시 찾기 ([Python]https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/1-1.py)
+- Q16 연구소 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/2-1.py))
+- Q17 경쟁적 전염 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/3-1.py))
+
+
+
