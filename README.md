@@ -150,6 +150,7 @@
 - Q15 특정 거리의 도시 찾기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/1-1.py))
 - Q16 연구소 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/2-1.py))
 - Q17 경쟁적 전염 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/3-1.py))
+- Q19 연산자 끼워 넣기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/5-1.py))
 
 
 
