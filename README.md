@@ -151,6 +151,9 @@
 - Q16 연구소 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/2-1.py))
 - Q17 경쟁적 전염 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/3-1.py))
 - Q19 연산자 끼워 넣기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/5-1.py))
+- Q20 감시피하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/6-1.py))
+- Q21 인구 이동 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/7-1.py))
+
 
 
 
