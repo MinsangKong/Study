@@ -76,6 +76,9 @@
 - [1181번 단어 정렬](https://www.acmicpc.net/problem/1181) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/BOJ/11.py))
 - [11650번 좌표 정렬하기](https://www.acmicpc.net/problem/11650) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/BOJ/12.py))
 - [2870번 수학숙제](https://www.acmicpc.net/problem/2870) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/BOJ/13.py))
+- [10814번 나이순 정렬](https://www.acmicpc.net/problem/10814) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/1-1.py))
+- [11004번 K번째 수](https://www.acmicpc.net/problem/11004) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/2.py))
+- [10825번 국영수](https://www.acmicpc.net/problem/10825) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/3-1.py))
 ### **이분탐색**
 - [1789번 수들의 합](https://www.acmicpc.net/problem/1789) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day03/1.py))
 - [13702번 이상한 술집](https://www.acmicpc.net/problem/13702) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day03/3.py))
@@ -133,6 +136,7 @@
 - Q12 기둥과 보 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/6-1.py))
 - Q14 외벽 점검 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/8-1.py))
 - Q18 괄호 변환 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/4-1.py))
+- Q22 블록 이동하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/8-1.py))
 
 
 
