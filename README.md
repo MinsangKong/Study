@@ -79,6 +79,11 @@
 - [10814번 나이순 정렬](https://www.acmicpc.net/problem/10814) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/1-1.py))
 - [11004번 K번째 수](https://www.acmicpc.net/problem/11004) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/2.py))
 - [10825번 국영수](https://www.acmicpc.net/problem/10825) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/3-1.py))
+- [11652번 카드](https://www.acmicpc.net/problem/11652) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/4-1.py))
+- [1302번 베스트셀러](https://www.acmicpc.net/problem/1302) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/5-1.py))
+- [2776번 암기왕](https://www.acmicpc.net/problem/2776) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/6-1.py))
+- [2012번 등수 매기기](https://www.acmicpc.net/problem/2012) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/7.py))
+
 ### **이분탐색**
 - [1789번 수들의 합](https://www.acmicpc.net/problem/1789) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day03/1.py))
 - [13702번 이상한 술집](https://www.acmicpc.net/problem/13702) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day03/3.py))
