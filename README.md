@@ -83,6 +83,10 @@
 - [1302번 베스트셀러](https://www.acmicpc.net/problem/1302) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/5-1.py))
 - [2776번 암기왕](https://www.acmicpc.net/problem/2776) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/6-1.py))
 - [2012번 등수 매기기](https://www.acmicpc.net/problem/2012) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/7.py))
+- [18870번 좌표 압축](https://www.acmicpc.net/problem/18870) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/8-1.py))
+- [16112번 5차 전직](https://www.acmicpc.net/problem/16112) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/9.py))
+- [13164번 행복유치원](https://www.acmicpc.net/problem/13164) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/10.py))
+- [1946번 신입사원](https://www.acmicpc.net/problem/1946) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/11-1.py))
 
 ### **이분탐색**
 - [1789번 수들의 합](https://www.acmicpc.net/problem/1789) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day03/1.py))
