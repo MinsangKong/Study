@@ -86,6 +86,10 @@
 - [16112번 5차 전직](https://www.acmicpc.net/problem/16112) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/9.py))
 - [13164번 행복유치원](https://www.acmicpc.net/problem/13164) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/10.py))
 - [1946번 신입사원](https://www.acmicpc.net/problem/1946) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/11-1.py))
+- [2075번 N번째 큰 수](https://www.acmicpc.net/problem/2075) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/12-3.py))
+- [2170번 선 긋기](https://www.acmicpc.net/problem/2170) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/13-1.py))
+- [5052번 전화번호 목록](https://www.acmicpc.net/problem/5052) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/14.py))
+- [8983번 사냥꾼](https://www.acmicpc.net/problem/8983) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/15-2.py))
 
 ### **이분탐색**
 - [1789번 수들의 합](https://www.acmicpc.net/problem/1789) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day03/1.py))
