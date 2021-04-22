@@ -78,7 +78,6 @@
 - [2870번 수학숙제](https://www.acmicpc.net/problem/2870) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/BOJ/13.py))
 - [10814번 나이순 정렬](https://www.acmicpc.net/problem/10814) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/1-1.py))
 - [11004번 K번째 수](https://www.acmicpc.net/problem/11004) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/2.py))
-- [10825번 국영수](https://www.acmicpc.net/problem/10825) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/3-1.py))
 - [11652번 카드](https://www.acmicpc.net/problem/11652) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/4-1.py))
 - [1302번 베스트셀러](https://www.acmicpc.net/problem/1302) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/5-1.py))
 - [2776번 암기왕](https://www.acmicpc.net/problem/2776) ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/6-1.py))
@@ -166,6 +165,7 @@
 - Q19 연산자 끼워 넣기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/5-1.py))
 - Q20 감시피하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/6-1.py))
 - Q21 인구 이동 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/7-1.py))
+- Q23 국영수 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/3-1.py))
 
 
 
