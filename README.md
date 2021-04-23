@@ -149,6 +149,7 @@
 - Q14 외벽 점검 ([Python](https://github.com/MinsangKong/Study/blob/main/Implement/Chapter3(Implement)/8-1.py))
 - Q18 괄호 변환 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/4-1.py))
 - Q22 블록 이동하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/8-1.py))
+- Q26 카드 정렬하기 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/3-1.py))
 
 
 
@@ -170,6 +171,9 @@
 - Q20 감시피하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/6-1.py))
 - Q21 인구 이동 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/7-1.py))
 - Q23 국영수 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/3-1.py))
+- Q24 안테나 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/1-1.py))
+- Q25 실패율 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/2-1.py))
+
 
 
 
