@@ -100,6 +100,10 @@
 - [1072번 게임](https://www.acmicpc.net/problem/1072) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day04/2-1.py))
 - [2003번 수들의 합 2](https://www.acmicpc.net/problem/2003) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day04/5-1.py))
 - [14921번 용액 합성하기](https://www.acmicpc.net/problem/14921) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/BOJ/Day07/2.py))
+- [2417번 정수 제곱근](https://www.acmicpc.net/problem/2417) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/1.py))
+- [17266번 어두운 굴다리](https://www.acmicpc.net/problem/17266) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/2-1.py))
+- [1920번 수 찾기](https://www.acmicpc.net/problem/1920) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/3.py))
+- [2805번 나무 자르기](https://www.acmicpc.net/problem/2805) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/4-1.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
