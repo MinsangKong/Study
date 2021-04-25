@@ -104,6 +104,8 @@
 - [17266번 어두운 굴다리](https://www.acmicpc.net/problem/17266) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/2-1.py))
 - [1920번 수 찾기](https://www.acmicpc.net/problem/1920) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/3.py))
 - [10815번 숫자 카드](https://www.acmicpc.net/problem/10815) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/4-1.py))
+- [2805번 나무 자르기](https://www.acmicpc.net/problem/2805) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/4-1.py))
+- [1654번 랜선 자르기](https://www.acmicpc.net/problem/1654) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/6.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
