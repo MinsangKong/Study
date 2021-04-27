@@ -109,6 +109,9 @@
 - [14465번 소가 길을 건너간 이유5](https://www.acmicpc.net/problem/14465) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/7.py))
 - [17245번 서버실](https://www.acmicpc.net/problem/17245) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/8-1.py))
 - [2343번 기타 레슨](https://www.acmicpc.net/problem/2343) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/9.py))
+- [3079번 입국심사](https://www.acmicpc.net/problem/3079) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/10.py))
+- [2470번 두 용액](https://www.acmicpc.net/problem/2470) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/11.py))
+- [3020번 개똥벌레](https://www.acmicpc.net/problem/3020) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/12-2.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
