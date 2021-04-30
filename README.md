@@ -190,6 +190,8 @@
 - Q23 국영수 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Review(Sorting)/3-1.py))
 - Q24 안테나 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/1-1.py))
 - Q25 실패율 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/2-1.py))
+- Q27 정렬된 배열에서 특정 수의 개수 구하기([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/1-1.py))
+- Q28 고정점 찾기([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/2-1.py))
 
 
 
