@@ -167,6 +167,7 @@
 - Q18 괄호 변환 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/4-1.py))
 - Q22 블록 이동하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/8-1.py))
 - Q26 카드 정렬하기 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/3-1.py))
+- Q30 가사 검색([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/4-1.py))
 
 
 
@@ -192,6 +193,7 @@
 - Q25 실패율 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/2-1.py))
 - Q27 정렬된 배열에서 특정 수의 개수 구하기([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/1-1.py))
 - Q28 고정점 찾기([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/2-1.py))
+- Q29 공유기 설치([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/3-1.py))
 
 
 
