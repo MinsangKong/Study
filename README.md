@@ -117,6 +117,9 @@
 - [13397번 구간 나누기2](https://www.acmicpc.net/problem/13397) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/15.py))
 - [2352번 반도체 설계](https://www.acmicpc.net/problem/2352) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/16-1.py))
 - [2143번 두 배열의 합](https://www.acmicpc.net/problem/2143) ([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Review(BS)/17-1.py))
+### **Dynamic Programming**
+- [2493번 탑](https://www.acmicpc.net/problem/2493) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/1.py))
+- [17298번 오큰수](https://www.acmicpc.net/problem/17298) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/2.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
