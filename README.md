@@ -124,6 +124,9 @@
 - [16395번 파스칼의 삼각형](https://www.acmicpc.net/problem/16395) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/4-1.py))
 - [9656번 돌 게임2](https://www.acmicpc.net/problem/9656) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/5-1.py))
 - [8394번 악수](https://www.acmicpc.net/problem/8394) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/6.py))
+- [2193번 이친수](https://www.acmicpc.net/problem/2193) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/7-1.py))
+- [15990번 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/8-1.py))
+- [11053번 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/9.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
