@@ -178,7 +178,9 @@
 - Q22 블록 이동하기 ([Python](https://github.com/MinsangKong/Study/blob/main/DFSBFS/Chapter3(DFSBFS)/8-1.py))
 - Q26 카드 정렬하기 ([Python](https://github.com/MinsangKong/Study/blob/main/Sorting/Chapter3(Sorting)/3-1.py))
 - Q30 가사 검색([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/4-1.py))
-
+- [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) ([Python](https://github.com/MinsangKong/Study/blob/main/2020Kakao/1.py))
+- [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) ([Python](https://github.com/MinsangKong/Study/blob/main/2020Kakao/2.py))
+- [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) ([Python](https://github.com/MinsangKong/Study/blob/main/2020Kakao/3-2.py))
 
 
 ---
