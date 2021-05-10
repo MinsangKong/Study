@@ -128,9 +128,12 @@
 - [15990번 1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/8-1.py))
 - [11053번 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/9.py))
 - [12015번 가잔 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/10.py))
-- [14002번 가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/11-1.py))
+- [14003번 가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14003) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/14.py))
+- [14002번 가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14002) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/11-1.py))
 - [1912번 연속합](https://www.acmicpc.net/problem/1912) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/12.py))
 - [11722번 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/13.py))
+- [2156번 포도주 시식](https://www.acmicpc.net/problem/2156) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/15.py))
+- [10844번 쉬운 계단 수](https://www.acmicpc.net/problem/10844) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/16.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
