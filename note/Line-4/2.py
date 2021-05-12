@@ -36,4 +36,3 @@ def solution(array):
                 check = check2
         answer.append(check)
     return answer
-print(solution(	[1, 2, 3, 4, 5]))
