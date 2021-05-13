@@ -137,6 +137,9 @@
 - [12865번 평범한 배낭](https://www.acmicpc.net/problem/12865) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/17-1.py))
 - [9251번 LCS](https://www.acmicpc.net/problem/9251) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/18.py))
 - [2096번 내려가기](https://www.acmicpc.net/problem/2096) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/19-1.py))
+- [1520번 내리막길](https://www.acmicpc.net/problem/1520) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/20.py))
+- [1937번 욕심쟁이 판다](https://www.acmicpc.net/problem/1937) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/21.py))
+- [1516번 게임 개발](https://www.acmicpc.net/problem/1516) ([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Review(DP)/22.py))
 ### **최단경로**
 - [14496번 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/1-3.py))
 - [18352번 특정 도시의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/BOJ/Day17/2-2.py))
