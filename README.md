@@ -219,6 +219,9 @@
 - Q27 정렬된 배열에서 특정 수의 개수 구하기([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/1-1.py))
 - Q28 고정점 찾기([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/2-1.py))
 - Q29 공유기 설치([Python](https://github.com/MinsangKong/Study/blob/main/BinarySearch/Chapter3(BS)/3-1.py))
+- Q31 금광([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3(DP)/1.py))
+- Q32 정수 삼각형([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3(DP)/2-1.py))
+- Q33 퇴사([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3(DP)/3-1.py))
 
 
 
