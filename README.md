@@ -222,6 +222,9 @@
 - Q31 금광([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/1.py))
 - Q32 정수 삼각형([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/2-1.py))
 - Q33 퇴사([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/3-1.py))
+- Q34 병사 배치하기([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/4-1.py))
+- Q35 못생긴 수([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/5-1.py))
+- Q36 편집 거리([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/6.py))
 
 
 
