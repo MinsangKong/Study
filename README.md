@@ -159,6 +159,9 @@
 - [18243번 Small World Network](https://www.acmicpc.net/problem/18243) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Review/9-1.py))
 - [1389번 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1398) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Review/10-1.py))
 - [11265번 끝나지 않는 파티](https://www.acmicpc.net/problem/11265) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Review/11.py))
+- [2660번 회장뽑기](https://www.acmicpc.net/problem/2660) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Review/12-1.py))
+- [21278번 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Review/13-1.py))
+- [1956번 운동](https://www.acmicpc.net/problem/1956) ([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Review/14-1.py))
 ### **그래프 이론**
 - [3098번 소셜 네트워크](https://www.acmicpc.net/problem/3098) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/BOJ/Day25/1-1.py))
 - [9372번 상근이의 여행](https://www.acmicpc.net/problem/9372) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/BOJ/Day25/3-1.py))
