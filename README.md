@@ -242,6 +242,10 @@
 - Q34 병사 배치하기([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/4-1.py))
 - Q35 못생긴 수([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/5-1.py))
 - Q36 편집 거리([Python](https://github.com/MinsangKong/Study/blob/main/DynamicProgramming/Chapter3/6.py))
+- Q37 플로이드([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/1-1.py))
+- Q38 정확한 순위([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/2-1.py))
+- Q39 화성 탐사([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/3-1.py))
+- Q40 숨바꼭질([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/4-1.py))
 
 
 
