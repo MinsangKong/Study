@@ -178,7 +178,9 @@
 - [17472번 다리만들기](https://www.acmicpc.net/problem/17472) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/BOJ/Day28/1-1.py))
 - [2252번 줄 세우기](https://www.acmicpc.net/problem/2252) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/BOJ/Day28/2-1.py))
 - [2623번 음악 프로그램](https://www.acmicpc.net/problem/2623) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/BOJ/Day28/3-1.py))
-
+- [1197번 최소 스패닝트리](https://www.acmicpc.net/problem/1197) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/1.py))
+- [1922번 네트워크 연결](https://www.acmicpc.net/problem/1922) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/2-1.py))
+- [6497번 전력난](https://www.acmicpc.net/problem/6497) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/3-1.py))
 
 ---
 ## **프로그래머스**
