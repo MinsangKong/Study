@@ -184,6 +184,9 @@
 - [16398번 행성 연결](https://www.acmicpc.net/problem/16398) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/4-1.py))
 - [13905번 세부](https://www.acmicpc.net/problem/13905) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/5.py))
 - [16202번 MST게임](https://www.acmicpc.net/problem/16202) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/6-1.py))
+- [14621번 나만 안되는 연애](https://www.acmicpc.net/problem/14621) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/7.py))
+- [13418번 학교 탐방하기](https://www.acmicpc.net/problem/13418) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/8.py))
+- [14950번 정복자](https://www.acmicpc.net/problem/14950) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/9.py))
 
 ---
 ## **프로그래머스**
