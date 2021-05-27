@@ -187,6 +187,10 @@
 - [14621번 나만 안되는 연애](https://www.acmicpc.net/problem/14621) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/7.py))
 - [13418번 학교 탐방하기](https://www.acmicpc.net/problem/13418) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/8.py))
 - [14950번 정복자](https://www.acmicpc.net/problem/14950) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/9.py))
+- [5021번 왕위 계승](https://www.acmicpc.net/problem/5021) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/10.py)
+- [14676번 영우는 사기꾼?](https://www.acmicpc.net/problem/14676) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/11.py)
+- [21276번 계보 복원가 호석](https://www.acmicpc.net/problem/21276) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/12-1.py)
+- [1005번 ACM Craft](https://www.acmicpc.net/problem/1005) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/13-1.py)
 
 ---
 ## **프로그래머스**
