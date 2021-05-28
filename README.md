@@ -191,6 +191,9 @@
 - [14676번 영우는 사기꾼?](https://www.acmicpc.net/problem/14676) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/11.py)
 - [21276번 계보 복원가 호석](https://www.acmicpc.net/problem/21276) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/12-1.py)
 - [1005번 ACM Craft](https://www.acmicpc.net/problem/1005) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/13-1.py)
+- [9470번 Strahler 순서](https://www.acmicpc.net/problem/9470) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/14-1.py)
+- [1766번 문제집](https://www.acmicpc.net/problem/1766) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/15.py)
+- [2637번 장난감조립](https://www.acmicpc.net/problem/2637) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/16-2.py)
 
 ---
 ## **프로그래머스**
