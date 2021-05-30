@@ -261,11 +261,11 @@
 - Q38 정확한 순위([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/2-1.py))
 - Q39 화성 탐사([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/3-1.py))
 - Q40 숨바꼭질([Python](https://github.com/MinsangKong/Study/blob/main/ShortestPath/Chapter3/4-1.py))
-- Q41 여행 계획([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/1-1.py)
-- Q42 탑승구([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/2-1.py)
-- Q43 어두운 길([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/3-1.py)
-- Q44 행성 터널([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/4-1.py)
-- Q45 최종 순위([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/5-1.py)
+- Q41 여행 계획([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/1-1.py))
+- Q42 탑승구([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/2-1.py))
+- Q43 어두운 길([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/3-1.py))
+- Q44 행성 터널([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/4-1.py))
+- Q45 최종 순위([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Chapter3/5-1.py))
 
 
 
