@@ -14,6 +14,7 @@ while True:
     end = temp.find(']')
     nums = []
     if start == -1:
+        resultText+=temp
         break
     resultText+=temp[:start+2]
     for i in temp[start+2:end-1]:
