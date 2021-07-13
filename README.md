@@ -196,6 +196,13 @@
 - [1766번 문제집](https://www.acmicpc.net/problem/1766) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/15.py)
 - [2637번 장난감조립](https://www.acmicpc.net/problem/2637) ([Python](https://github.com/MinsangKong/Study/blob/main/GraphTheory/Review/16-2.py)
 
+### **세그먼트 트리**
+- [2042번 구간 합 구하기](https://www.acmicpc.net/problem/2042) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/1.py)
+- [1275번 커피숍2](https://www.acmicpc.net/problem/1275) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/2-1.py)
+- [2357번 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/3-1.py)
+- [1517번 버블 소트](https://www.acmicpc.net/problem/1517) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/4.py)
+- [2243번 사탕상자](https://www.acmicpc.net/problem/2243) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/5.py)
+- [2517번 달리기](https://www.acmicpc.net/problem/2517) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/6-1.py)
 ---
 ## **프로그래머스**
 ### **Level 1**
