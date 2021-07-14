@@ -203,6 +203,7 @@
 - [1517번 버블 소트](https://www.acmicpc.net/problem/1517) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/4.py))
 - [2243번 사탕상자](https://www.acmicpc.net/problem/2243) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/5.py))
 - [2517번 달리기](https://www.acmicpc.net/problem/2517) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/6-1.py))
+- [1615번 교차개수세기](https://www.acmicpc.net/problem/1615) ([Python](https://github.com/MinsangKong/Study/blob/main/SegmentTree/BOJ/7.py))
 ---
 ## **프로그래머스**
 ### **Level 1**
