@@ -11,7 +11,7 @@ def query(s,e,idx,l,r):
     else:
         mid = (s+e)//2
         return query(s,mid,idx*2,l,r)+query(mid+1,e,idx*2+1,l,r)
-    
+        #교차하는 곳의 누적합 -> 교차점의 수
 def update(s,e,idx,k,diff):
     if not (s<=k<=e):
         return
@@ -34,7 +34,7 @@ result = 0
 
 for i in range(m):
     b = check[i][1]
-    result += query(1,n,1,1,b-1)
+    result += query(1,n,1,1,b-1) #b보다 작아야만 교차점 발생
     update(1,n,1,b,1)
     #print(tree)
     
