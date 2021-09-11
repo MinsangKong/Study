@@ -23,6 +23,8 @@ def solution(n, k):
         for i in range(2,int(nums[0]**0.5)+1):
             if nums[0]% i == 0:
                 return 0
+        if nums[0] == 1:
+            return 0
         return 1
     else:
         maxNum = max(nums)
@@ -35,4 +37,4 @@ def solution(n, k):
             if not primes[num]:
                 answer+=1
     return answer
-print(solution(1000000,6))
+print(solution(1,6))
